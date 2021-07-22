@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">EOE</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="welcome_message">The National Vaccinations Organization is a platform where you can be informed about the progress of vaccinations.
+        Moreover this smartphone app enables the user to make an appointment to get vaccinated or see the statistics of vaccinations.
+    </string>
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="appointment">Appointment</string>
+    <string name="stats">Stats</string>
+    <string name="faqs">FAQs</string>
+    <string name="info_video">Informational video about COVID-19</string>
+    <string name="FAQs">FAQs</string>
+    <string name="q1">Is the vaccine safe?</string>
+    <string name="q2">Which vaccine should i do?</string>
+    <string name="q3">How to get an appointment?</string>
+    <string name="q4">How many doses of the vaccine do i need?</string>
+    <string name="q5">Will there be another lockdown?</string>
+    <string name="q6">How long until the vaccinations are completed?</string>
+    <string name="q7">Are the people willing to do the vaccine?</string>
+    <string name="a1">Yes all vaccines are tested and dont have any side effects</string>
+    <string name="a2">All vaccines are equal</string>
+    <string name="a3">Go to the appointment page and insert your info</string>
+    <string name="a4">Two doses are required in order to be safe from the corona virus</string>
+    <string name="a5">The government believes that after the completion of the vaccinations, there wont be a need for another lockdown</string>
+    <string name="a6">It is estimated that the vaccinations will be completed by the end of the summer</string>
+    <string name="a7">Current data shows that more than 60% of the population is willing to do the vaccine</string>
+    <string name="insert_fields">Insert the following fields</string>
+    <string name="fullname">Fullname</string>
+    <string name="phone">Phone</string>
+    <string name="insert_button">Make your appointment</string>
+    <string name="change_fields">Change your appointment</string>
+    <string name="change_button">Change appointment</string>
+    <string name="cancel_button">Cancel appointment</string>
+    <string name="view_button">View appointment</string>
+    <string name="toast1">Appointment made successfully</string>
+    <string name="toast2">Appointment changed</string>
+    <string name="toast3">Appointment deleted</string>
+    <string name="toast4">Fill all fields</string>
+    <string name="appoin_data">Appointment data</string>
+    <string name="date_from">Date from (2021-01-01)</string>
+    <string name="date_to">Date to (2021-01-31)</string>
+    <string name="data_button">View data</string>
+    <string name="fill_dates">Fill both dates</string>
+    <string name="date">Date</string>
+    <string name="dose1">First doses</string>
+    <string name="dose2">Second doses</string>
+    <string name="day_total">Day total</string>
+    <string name="total">Total</string>
+</resources>
